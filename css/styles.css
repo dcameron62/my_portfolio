@@ -1,0 +1,24 @@
+/**
+* Created by PHP Storm
+* Author: Don Cameron
+* Date: 9/23/2021
+* Time: 9:47 PM
+*/
+
+body {
+    background-color: #F0E5CF;
+}
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 5px;
+    border-color: gray;
+}
+
+h1  {
+    color: #4B6587;
+}
+
+h3 {
+    color: #889EAF;
+}
