@@ -6,19 +6,29 @@
 */
 
 body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.top_container {
     background-color: #F0E5CF;
-}
-hr {
-    border-style: dotted none none;
-    width: 10%;
-    border-width: 5px;
-    border-color: gray;
+    /*height: 200px;*/
+    /*width: 200px;*/
 }
 
-h1  {
-    color: #4B6587;
-}
+/*.middle_container {*/
+/*    background-color: gray;*/
+/*    height: 200px;*/
+/*    width: 200px;*/
+/*    margin-left: 200px;*/
+/*}*/
 
-h3 {
-    color: #889EAF;
-}
+/*.bottom_container {*/
+/*    background-color: aqua;*/
+/*    height: 200px;*/
+/*    width: 200px;*/
+/*    margin-left: 400px;*/
+/*}*/
